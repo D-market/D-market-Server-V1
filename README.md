@@ -35,6 +35,7 @@
 | :heavy_plus_sign:(`heavy_plus_sign`) | dependency 추가 |
 | :heavy_minus_sign:(`heavy_minus_sign`) | dependency 삭제 |
 | :memo:(`memo`) | document 추가 및 수정 |
+| :construction:(`construction`) | 코드리뷰 반영 |
 
 예시)
 issue 3782, README.md 수정 -> :memo: :: (#3782) README.md 수정
